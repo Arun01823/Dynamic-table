@@ -1,0 +1,17 @@
+
+.dynamic-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .dynamic-table th,
+  .dynamic-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .dynamic-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
